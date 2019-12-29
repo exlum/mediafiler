@@ -1,5 +1,5 @@
 # mediafiler
-Organize images and videos in a easy to use directory structure
+Small script to organize images and videos in a easy to use directory structure
 
 ## Setup environment
 python3 -m venv venv
